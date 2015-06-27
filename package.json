@@ -1,0 +1,22 @@
+{
+  "name": "stoeffel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc stylesheets/stylesheet.less > stylesheets/stylesheet.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoeffel/stoeffel.git"
+  },
+  "author": "schtoeffel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoeffel/stoeffel/issues"
+  },
+  "homepage": "https://github.com/stoeffel/stoeffel#readme",
+  "devDependencies": {
+    "less": "^2.5.1"
+  }
+}
