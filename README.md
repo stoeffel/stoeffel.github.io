@@ -1,4 +1,4 @@
-# [stoeffel.github.io](stoeffel.github.io)
+# [stoeffel.github.io](http://stoeffel.github.io/)
 
 - [github](https://github.com/stoeffel)
 - [npm](https://www.npmjs.com/~schtoeffel)
